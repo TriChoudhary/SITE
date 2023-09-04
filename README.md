@@ -1,3 +1,3 @@
 # SITE
 first real repositery<br>
-owner :- Trilochan Choudhary
+owner :- Trilochan Choudhary aka Shyam
